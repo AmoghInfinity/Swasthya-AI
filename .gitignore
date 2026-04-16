@@ -1,0 +1,51 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+.env
+
+# Chroma DB (Vector Store)
+
+chroma_db/
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# VS Code / IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (if any)
+
+.ipynb_checkpoints/
+
+# Large ML Files (safety)
+
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# Cache / Temp
+
+.cache/
+tmp/
+temp/
