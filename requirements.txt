@@ -1,0 +1,10 @@
+langchain
+langgraph
+chromadb
+sentence-transformers
+google-generativeai
+streamlit
+fastapi
+uvicorn
+python-dotenv
+google-genai
